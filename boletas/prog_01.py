@@ -10,7 +10,7 @@ velocidad_final=velocidad_inicial+(aceleracion*tiempo)
 alta_velocidad=(velocidad_final>200)
 
 #output
-print("                              ")
+print("                                            ")
 print("############################################")
 print("# CALCULADORA DE VELOCIDAD FINAL DE UN MOVIL")
 print("############################################")
